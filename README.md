@@ -2,6 +2,8 @@
 
 ### React + TypeScript + Tailwind
 
+- [Deployed app](https://conways-game-of-life-drab.vercel.app/)
+
 ![app-demo](./src/assets/game-of-life.gif)
 
 ### Get Started From Scratch
